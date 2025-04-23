@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sky-scribe-1311",
+  "private_key_id": "e810383fc5ce74149496e2404350c1a5565c8ebd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvQtOc3CRNJPMI\nLKMAlJu6drRxmfkkY6D44vgb9uG8G4wnMPzLMlOE8thbHwVjCT3J4AaiHRCABKPu\nn/sbYgsEqyFaBc43sIjr6F+qDTi4oDL+/0hN1V6qKviorB8A2msOz6qW0MEKjMrv\nJlzvHxxxxET7R/ceX4oxei6vicePkGhr9fF/b2EeTZHxiCJebwqobYUrADnXLuFV\nwa9i91MDQ1lTb6UExLxqZgEG+QD3nhADo1wSjB59s0j18eqJk5gzn7D8zuXe3nmV\nt0G5LykPpdY2QsEv9tzCZh1PZrTMTRc9x+RyRLYrLxP7Af1BO22d/KXGlt2BfLaN\nFswmwehLAgMBAAECggEALm5rZqKx4Vg5JMDCnGxCh5dcPb53kWrtohJrfekdq7q2\nmklxp5mZI988b4Ob5z1zB7EYwMknbmsMTTNIENycI6v8xX9FP16/H5SsB37COLOE\nXycdrjUpg7ansvQKsKys8TsWLCd5BQUA3HPS6izZWdCQH+xUbVENaQdAKBQ98Ov2\nZW1JgXyHyKlt4UD3ULL3+RPFIE1m39YnfWL571Kw9lwEK3a+K5MUHxp0k73ILwIa\nPP3fB/JwTLGMjX2G+SdmJn0KBS5Qbv0lTMy+GyRP5f0aX5qCotEncaQhjW4nBXt/\nFVflspciPrCTQckcqFq0WINUJU8iYiqIqB7XVeDmTQKBgQDXuFeonZD97btSo8qb\n2Y00QYtlGhibJaucpE89QmbbjzyuACdw4lWm3FWqjsmas8Q4/W5e9gZbxIqos9z8\nKAnzmdBBLzgcHE3fTdtbJQ9JgE6TFHyFAZHzUJqTHBHvCsYrEXce4zQDuhGWS7Uq\nhEiuUSUJwNVFxH/hYSBr3LtDRQKBgQDP/H9M3762Y8DeV3dv1RSMZD9ycwzzPeTb\nWd2eRmOnc/PghgLydy5h/qTKEBWRf6/b43XMJ75S776pXp5QFvCuC9klU2WmkWfh\ntfogzlgUEzrM135hyhdLHVSfjK3nOUuzW5vIiZNOOCFzW7zu6GULBjij4RUtDtPn\noSTKzpbuTwKBgHXa2+FePGHO6SGsJLxi7hdXm+2fhUP2H70Ts8r3JTTdG7zAjsvI\njBz+kbr+Cb0Aa7rrEsrExRKL3Wlv4tLMmStCpJmIT7Jj8FOIuMgiBikU9Vi7v4/3\nHKL/LYQjuNSNYVkUUK1KWheTJ5qiQBc7cG30HTUn6h0Uzvz2UH09ef21AoGACGgj\nWR8eHU8w54vPhxSszPPsYJrn5hkVXAxo2dHsi0Mzk1q3WceZd1qMnKJDzOrFV/T8\nuPDOT5njMgNiEMisl8xgzZJuZGoyMbxiTNsqUj1ovgjj0d4STPX1irFsAhGdzrUg\nOd3dt2ara3dEzr9T/jsVJQKfEYAs7orj6tKo5R8CgYEAzg8IuPpmxqC1xmgyV5yx\nVoCICkzE7mNow3v48KYYPU98Ji89q/EGxipxc3ny+RnjGZA+UYMCfktz2TokBPY9\n8ohdfIjbL80u4BXxAjqCe1sO3515qQKuBTk1etOz/nWZhVramnS5FxM3cYTZI4TK\nZu4eWJYgW0uhI2QWFnYy090=\n-----END PRIVATE KEY-----\n",
+  "client_email": "beproject15a@sky-scribe-1311.iam.gserviceaccount.com",
+  "client_id": "106683646438487337113",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beproject15a%40sky-scribe-1311.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
